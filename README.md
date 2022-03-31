@@ -11,7 +11,7 @@ The use of genetic algorithms has made the process of finding the equation faste
 
 ###### Implementation
 
-The dataset used was *'example. 1'* from Feynman's library.
+The dataset used was *'example1.txt'* from Feynman's library.
 
 The data have a discrete distribution and to verify symmetries we need a continuous dataset. Because of this, we create and train a neural network so that it returns a continuous function in order to verify existing symmetries.
 
@@ -21,7 +21,7 @@ Subsequently, we implement the genetic algorithm to optimize the search. See rec
 
 Initially, check if there is a GPU available for code execution, if there is, select it. With the GPU, the execution will be more efficient.
 
-Then, download 'example1.txt', this file is available on Silviu Marian Udrescu's GitHub.
+Then, download *'example1.txt'*, this file is available on Silviu Marian Udrescu's GitHub.
 
 ## Attention 
 
