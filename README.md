@@ -11,7 +11,7 @@ The use of genetic algorithms has made the process of finding the equation faste
 
 ###### Implementation
 
-The dataset used was 'example. 1' from Feynman's library.
+The dataset used was *'example. 1'* from Feynman's library.
 
 The data have a discrete distribution and to verify symmetries we need a continuous dataset. Because of this, we create and train a neural network so that it returns a continuous function in order to verify existing symmetries.
 
@@ -25,7 +25,7 @@ Then, download 'example1.txt', this file is available on Silviu Marian Udrescu's
 
 ## Attention 
 
-To execute the def SR_GA function it is necessary to have JULIA installed on the computer, as we use the genetic programming Pysr package that has the JULIA interface.
+To execute the **def SR_GA** function it is necessary to have JULIA installed on the computer, as we use the genetic programming Pysr package that has the JULIA interface.
 
 ###### Results
 
