@@ -22,7 +22,7 @@ import time
 
 # Preparing the data
 
-''' class MyDataset():
+class MyDataset():
  
   def __init__(self, data):
 
