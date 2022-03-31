@@ -30,9 +30,9 @@ To execute the **def SR_GA** function it is necessary to have JULIA installed on
 
 ###### Results
 
-In def show_results we go back to our original variable sets and the original size dataset.
+In **def show_results** we go back to our original variable sets and the original size dataset showing the correct equation founded!
 
-Using the genetic algorithm, the search time for the equation was 8 times faster and the correct equation i founded. Use the code and check!
+Using the genetic algorithm, the search time for the equation was 8 times faster. Use the code and check!
 
 For more information, please contact us.
 
