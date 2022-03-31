@@ -28,7 +28,7 @@ Then, download 'example1.txt', this file is available on Silviu Marian Udrescu's
 To execute the def SR_GA function it is necessary to have JULIA installed on the computer, as we use the genetic programming Pysr package that has the JULIA interface.
 
 
-###### Execution
+###### Citation
 @article{udrescu2020ai,
   title={AI Feynman 2.0: Pareto-optimal symbolic regression exploiting graph modularity},
   author={Udrescu, Silviu-Marian and Tan, Andrew and Feng, Jiahai and Neto, Orisvaldo and Wu, Tailin and Tegmark, Max},
