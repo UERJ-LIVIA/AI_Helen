@@ -19,7 +19,7 @@ Subsequently, we implement the genetic algorithm to optimize the search. See rec
 
 ###### Execution
 
-Initially, check if there is a GPU available for code execution, if there is, select it. With the GPU, the execution will be more efficient.
+To use the pysr_utils, check first if there is a GPU available for code execution, if there is, select it. With the GPU, the execution will be more efficient.
 
 Then, download *'example1.txt'*, this file is available on Silviu Marian Udrescu's GitHub.
 
