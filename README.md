@@ -27,6 +27,11 @@ Then, download 'example1.txt', this file is available on Silviu Marian Udrescu's
 
 To execute the def SR_GA function it is necessary to have JULIA installed on the computer, as we use the genetic programming Pysr package that has the JULIA interface.
 
+###### Results
+
+Using the genetic algorithm, the search time for the equation was 8 times faster. Use the code and check!
+
+For more information, please contact us.
 
 ###### Citation
 @article{udrescu2020ai,
