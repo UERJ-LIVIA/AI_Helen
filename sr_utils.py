@@ -10,7 +10,7 @@ import pandas as pd
 import pathlib
 #from pysr import PySRRegressor
 import pysr
-pysr.silence_julia_warning()
+#pysr.silence_julia_warning()
 import json
 import os
 import dill as pickle
